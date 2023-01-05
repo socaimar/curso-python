@@ -1,0 +1,1 @@
+print("Este es un ejemplo de la utilizacion de la terminal con git ")
